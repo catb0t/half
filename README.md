@@ -1,7 +1,7 @@
 # half
 half is an extremely simple language.
 
-# [the original spec, cloned here:](http://codegolf.stackexchange.com/posts/22958/edit)
+# [the original spec, cloned here:](http://codegolf.stackexchange.com/posts/22958)
 
 Half (interpreter/translator in Windows Batch)
 ==============================================
